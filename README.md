@@ -12,7 +12,7 @@ Sou **Engenheiro de Software**, **Desenvolvedor Fullstack** (Front/Backend), **G
 
 ### 🌱 I’m currently learning:
 - **Ciência da Computação** (Cursando na **Universidade Veiga de Almeida**)
-- Novas ferramentas e **frameworks** para **desenvolvimento de jogos** e **aplicações web**.
+- Novas ferramentas e **frameworks** para **desenvolvimento de jogos**, **desenvolvimento de software** e **aplicações web**.
 
 ### 💞️ I’m looking to collaborate on:
 - Projetos de **desenvolvimento de jogos** com foco em **gameplay** e **design de jogos**.
@@ -26,5 +26,5 @@ Sou **Engenheiro de Software**, **Desenvolvedor Fullstack** (Front/Backend), **G
 - Ele/Dele
 
 ### ⚡ Fun fact:
-- Fundador do meu próprio estúdio independente, o **Sorrizin Studio**, onde publicamos jogos na **Itch.io** e **Game Jolt**.
+- Fundador da minha propria equipe independente, o **Sorrizin Studio**, onde publicamos jogos na **Itch.io**.
 - Sou **certificado em inglês** pela **Cambridge** e tenho **especialização em Unreal Engine e Maya** pela **Zion**.

@@ -7,7 +7,8 @@ Sou **Engenheiro de Software**, **Desenvolvedor Fullstack** (Front/Backend), **G
 - **Tecnologia** e inovações no campo da **Programação**
 - **Desenvolvimento Web** (HTML5, CSS, JavaScript, PHP)
 - **Desenvolvimento Backend** (C++, C#, Python, Java)
-- **Design e Desenvolvimento de Jogos** com ferramentas como **Unreal Engine**, **Maya**, **Substance Painter** e muito mais!
+- **Design e Desenvolvimento de Jogos** com ferramentas como **Unreal Engine**, **Maya**, **Substance Painter**, **Unity**, **Godot** e mais!
+- **Design e Desenvolvimento de Softwares**!
 
 ### 🌱 I’m currently learning:
 - **Ciência da Computação** (Cursando na **Universidade Veiga de Almeida**)

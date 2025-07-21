@@ -56,9 +56,10 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ## 📫 Contato
 
-[![Linktree](https://img.shields.io/badge/Linktree-00C300?style=flat&logo=linktree&logoColor=white)](https://felipe-felpipi.github.io/)  
-[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://felpipou.itch.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)  
+[![Linktree](https://img.shields.io/badge/Linktree-00C300?style=flat&logo=linktree&logoColor=white)](https://felipe-felpipi.github.io/)
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://felpipou.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
 

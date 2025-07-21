@@ -74,4 +74,5 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 > Pressione START para jogar (sério, tenta aí)
 
-[![DOOM no GitHub](https://user-images.githubusercontent.com/12345678/doom-preview.gif)](https://js-dos.com/games/doom.exe.html)
+![DOOM](https://img.shields.io/badge/status-runnin'%20doom-red?logo=doom&logoColor=white)
+

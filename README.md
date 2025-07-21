@@ -70,3 +70,4 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ---
 
+![snake gif](https://github.com/Felipe-Felpipi/Felipe-Felpipi/blob/output/github-contribution-grid-snake.svg)

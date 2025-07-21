@@ -72,11 +72,11 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ## 🧠 Experimentos: Rodando DOOM no GitHub
 
-run doom.exe
-Initializing...
-Loading assets ███████░░░░░ 65%
-WAD file found: DOOM1.WAD
-Memory OK
-Press ENTER to start...
-
+run doom.exe<br>
+Initializing...<br>
+Loading assets ███████░░░░░ 65%<br>
+WAD file found: DOOM1.WAD<br>
+Memory OK<br>
+Press ENTER to start...<br>
+<br>
 👉 [**Iniciar DOOM**](https://js-dos.com/games/doom.exe.html) 👈

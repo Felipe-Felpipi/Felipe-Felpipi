@@ -69,6 +69,5 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ## 💾 Doom rodando no meu GitHub 😎
 
-> Pressione START para jogar (sério, tenta aí)
+![DOS Powered](https://img.shields.io/badge/DOS-Running%20Doom%20v1.1-blue?style=for-the-badge&logo=ghost)
 
-[![DOOM](https://img.shields.io/badge/DOOM-1993-red?style=for-the-badge&logo=doom)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

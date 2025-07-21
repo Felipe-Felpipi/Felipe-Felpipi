@@ -49,8 +49,7 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Felpipi&show_icons=true&theme=tokyonight&count_private=true" />
-  <BR>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Felpipi&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Felpipi&layout=compact&theme=tokyonight" />
 </div>
 
 ---

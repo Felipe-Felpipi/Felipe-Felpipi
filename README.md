@@ -70,4 +70,7 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ---
 
-![snake gif](https://github.com/Felipe-Felpipi/Felipe-Felpipi/blob/output/github-contribution-grid-snake.svg)
+## 🎮 Quer jogar DOOM?
+
+[![DOOM](https://i.imgur.com/5cK3N3s.png)](https://dos.zone/doom-dec-1993/)
+

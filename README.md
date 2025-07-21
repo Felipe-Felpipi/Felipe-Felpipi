@@ -1,4 +1,4 @@
-<h1 align="center">Felipe Almeida 👾 Felpipou</h1>
+<h1 align="center">Felipe Almeida 👾 Felpipi</h1>
 
 <div align="center">
 Desenvolvedor Fullstack • Game Designer Indie • Engenheiro de Software • Programador PV  

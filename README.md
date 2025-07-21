@@ -1,8 +1,7 @@
 <h1 align="center">Felipe Almeida 👾 Felpipi</h1>
 
 <div align="center">
-Desenvolvedor Fullstack • Game Designer Indie • Engenheiro de Software • Programador PV  
-🎮 Unreal Engine | Unity | C++ | C# | Web Dev | IA de jogos  
+Desenvolvedor Fullstack • Game Designer Indie • Engenheiro de Software • Programador PV 
 </div>
 
 ---

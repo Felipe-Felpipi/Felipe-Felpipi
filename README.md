@@ -71,4 +71,4 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 > Pressione START para jogar (sério, tenta aí)
 
-[![DOOM](https://img.shields.io/badge/DOOM-1993-red?style=for-the-badge&logo=doom)](https://dos.zone/doom-dec-1993/)
+[![DOOM](https://img.shields.io/badge/DOOM-1993-red?style=for-the-badge&logo=doom)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

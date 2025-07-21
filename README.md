@@ -70,6 +70,13 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ---
 
-## 🎮 Quer jogar DOOM?
+## 🧠 Experimentos: Rodando DOOM no GitHub
 
-[![DOOM](https://img.shields.io/badge/DOOM-1993-red?style=for-the-badge&logo=doom)](https://dos.zone/doom-dec-1993/)
+run doom.exe
+Initializing...
+Loading assets ███████░░░░░ 65%
+WAD file found: DOOM1.WAD
+Memory OK
+Press ENTER to start...
+
+👉 [**Iniciar DOOM**](https://js-dos.com/games/doom.exe.html) 👈

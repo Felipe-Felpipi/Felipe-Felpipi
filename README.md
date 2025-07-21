@@ -72,5 +72,4 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ## 🎮 Quer jogar DOOM?
 
-[![DOOM](https://i.imgur.com/5cK3N3s.png)](https://dos.zone/doom-dec-1993/)
-
+[![DOOM](https://img.shields.io/badge/DOOM-1993-red?style=for-the-badge&logo=doom)](https://dos.zone/doom-dec-1993/)

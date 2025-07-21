@@ -70,13 +70,8 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 
 ---
 
-## 🧠 Experimentos: Rodando DOOM no GitHub
+## 💾 Doom rodando no meu GitHub 😎
 
-run doom.exe<br>
-Initializing...<br>
-Loading assets ███████░░░░░ 65%<br>
-WAD file found: DOOM1.WAD<br>
-Memory OK<br>
-Press ENTER to start...<br>
-<br>
-👉 [**Iniciar DOOM**](https://js-dos.com/games/doom.exe.html) 👈
+> Pressione START para jogar (sério, tenta aí)
+
+[![DOOM no GitHub](https://user-images.githubusercontent.com/12345678/doom-preview.gif)](https://js-dos.com/games/doom.exe.html)

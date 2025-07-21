@@ -2,6 +2,8 @@
 
 Sou **Engenheiro de Software**, **Desenvolvedor Fullstack** (Front/Backend), **Game Designer** e **Developer**, e **Programador PV**. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 👀 I’m interested in:
 - Desenvolvimento de **Jogos Digitais**
 - **Tecnologia** e inovações no campo da **Programação**

@@ -1,33 +1,71 @@
-# 👋 Hi, I’m @Felipe-Felpipi
+<h1 align="center">Felipe Almeida 👾 Felpipou</h1>
 
-Sou **Engenheiro de Software**, **Desenvolvedor Fullstack** (Front/Backend), **Game Designer** e **Developer**, e **Programador PV**. 
+<div align="center">
+Desenvolvedor Fullstack • Game Designer Indie • Engenheiro de Software • Programador PV  
+🎮 Unreal Engine | Unity | C++ | C# | Web Dev | IA de jogos  
+</div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+---
 
-### 👀 I’m interested in:
-- Desenvolvimento de **Jogos Digitais**
-- **Tecnologia** e inovações no campo da **Programação**
-- **Desenvolvimento Web** (HTML5, CSS, JavaScript, PHP)
-- **Desenvolvimento Backend** (C++, C#, Python, Java)
-- **Design e Desenvolvimento de Jogos** com ferramentas como **Unreal Engine**, **Maya**, **Substance Painter**, **Unity**, **Godot** e mais!
-- **Design e Desenvolvimento de Softwares**!
+## 🧠 Sobre mim
 
-### 🌱 I’m currently learning:
-- **Ciência da Computação** (Cursando na **Universidade Veiga de Almeida**)
-- Novas ferramentas e **frameworks** para **desenvolvimento de jogos**, **desenvolvimento de software** e **aplicações web**.
+Sou **desenvolvedor fullstack**, **game designer** e **engenheiro de software**, apaixonado por experiências imersivas, tecnologia criativa e inovação no desenvolvimento de jogos.  
+Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida**.
 
-### 💞️ I’m looking to collaborate on:
-- Projetos de **desenvolvimento de jogos** com foco em **gameplay** e **design de jogos**.
-- **Projetos open-source** relacionados a **software**, **web** e **game design**.
-- Qualquer oportunidade de **colaboração** que envolva **inovação** e **tecnologia**!
+🧬 **Fundador da Sorrizin Studio**.
 
-### 📫 How to reach me:
-- [Linktree](https://felipe-felpipi.github.io/)
+---
 
-### 😄 Pronouns:
-- Ele/Dele
+## 🚀 Tecnologias e Ferramentas
 
-### ⚡ Fun fact:
-- Fundador da minha propria equipe independente, o **Sorrizin Studio**, onde publicamos jogos na **Itch.io**.
-- Sou **certificado em inglês** pela **Cambridge** e tenho **especialização em Unreal Engine e Maya** pela **Zion**.
+**💻 Linguagens & Web:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**🧰 Engines e ferramentas:**  
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)  
+![Maya](https://img.shields.io/badge/Maya-00B1E7?style=flat&logo=autodesk&logoColor=white)  
+![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6B00?style=flat&logo=adobe&logoColor=white)
+
+---
+
+## 🧪 Atualmente estudando
+
+- Avançando em **C++/Blueprints com Unreal Engine**
+- Desenvolvimento de **IA adaptativa para jogos**
+- Design sistêmico e arquitetura de software
+- Frameworks web modernos
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Felpipi&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Felpipi&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Contato
+
+[![Linktree](https://img.shields.io/badge/Linktree-00C300?style=flat&logo=linktree&logoColor=white)](https://felipe-felpipi.github.io/)  
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://felpipou.itch.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)  
+
+---
+
+## 🧠 Curiosidades
+
+- 🎓 Certificado pela **Cambridge** em inglês
+- 💼 Experiência com **produção virtual** (Aximmetry / Unreal / Antilatency)
+
+---
+

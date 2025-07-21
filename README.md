@@ -2,7 +2,7 @@
 
 Sou **Engenheiro de Software**, **Desenvolvedor Fullstack** (Front/Backend), **Game Designer** e **Developer**, e **Programador PV**. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Felpipi&show_icons=true&theme=radical)](https://github.com/Felipe-Felpipi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Felpipi&show_icons=true&theme=onedark)](https://github.com/Felipe-Felpipi/github-readme-stats)
 
 ### 👀 I’m interested in:
 - Desenvolvimento de **Jogos Digitais**

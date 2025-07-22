@@ -70,6 +70,5 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 ## 💾 Doom rodando no meu GitHub 😎
 
 Clique na imagem para jogar 🎮 <br>
-<div align="center" height="150em">
-[![Play DOOM](https://doomwiki.org/w/images/4/4b/Doom-1-.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-</div>
+
+<img height="180em" src="https://doomwiki.org/w/images/4/4b/Doom-1-.gif">(https://www.youtube.com/watch?v=dQw4w9WgXcQ)

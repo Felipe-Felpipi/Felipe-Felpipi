@@ -41,6 +41,7 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 - Desenvolvimento de **IA adaptativa para jogos**
 - Design sistêmico e arquitetura de software
 - Frameworks web modernos
+- Jogos com dentro de metaversos com **Unity**
 
 ---
 

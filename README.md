@@ -30,18 +30,6 @@ Atualmente curso **Ciência da Computação** na **Universidade Veiga de Almeida
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-00B1E7?style=flat&logo=autodesk&logoColor=white)
-![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6B00?style=flat&logo=adobe&logoColor=white)
-
----
-
-## 🧪 Atualmente estudando
-
-- Avançando em **C++/Blueprints com Unreal Engine**
-- Desenvolvimento de **IA adaptativa para jogos**
-- Design sistêmico e arquitetura de software
-- Frameworks web modernos
-- Jogos com dentro de metaversos com **Unity**
 
 ---
 

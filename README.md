@@ -51,10 +51,10 @@ Gosto de trabalhar no cruzamento entre **engenharia de software robusta** e **de
 
 ### 📊 Minhas estatísticas no GitHub
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Felpipi&show_icons=true&theme=merko&hide_border=false&custom_title=Estatísticas+do+GitHub&count_private=true)](https://github.com/Felipe-Felpipi)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipe-Felpipi&layout=compact&theme=merko&hide_border=false&custom_title=Linguagens+Mais+Usadas)](https://github.com/Felipe-Felpipi)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Felpipi&show_icons=true&theme=midnight-purple&hide_border=false&custom_title=Estatísticas+do+GitHub&count_private=true)](https://github.com/Felipe-Felpipi)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipe-Felpipi&layout=compact&theme=midnight-purple&hide_border=false&custom_title=Linguagens+Mais+Usadas)](https://github.com/Felipe-Felpipi)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Felpipi&radius=16&theme=merko&area=true&order=5&hide_border=false&custom_title=Gráfico+de+Atividades)](https://github.com/Felipe-Felpipi)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Felpipi&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&custom_title=Gráfico+de+Atividades)](https://github.com/Felipe-Felpipi)
 
 ---
 
